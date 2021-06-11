@@ -4,6 +4,8 @@
 
 <img src="https://cdn.discordapp.com/attachments/842617300976664628/847523661480853514/KakaoTalk_20210524_201429353.jpg" alt="img" style="zoom: 50%;" />
 
+
+- 사용 툴 및 언어 버전 추가할 것
 ## 팀원 및 역할 분담
 
 팀원 : 오승철, 천주용
